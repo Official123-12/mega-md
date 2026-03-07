@@ -76,7 +76,7 @@ setInterval(() => {
 let phoneNumber = global.PAIRING_NUMBER || process.env.PAIRING_NUMBER || "923051391005";
 let owner = JSON.parse(fs.readFileSync('./data/owner.json'));
 
-global.botname = process.env.BOT_NAME || "ANUNAK";
+global.botname = process.env.BOT_NAME || "IAM-LEGEND";
 global.themeemoji = "•";
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code");

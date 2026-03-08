@@ -36,7 +36,7 @@ module.exports = {
 
             const getSt = (val) => val ? '✅' : '❌';
 
-            let menuText = `╭━〔 *MEGA SETTINGS* 〕━┈\n┃\n`;
+            let menuText = `╭━〔 *STANY•TECH•SETTINGS* 〕━┈\n┃\n`;
             menuText += `┃ 👤 *User:* @${cleanJid(senderId)}\n`;
             menuText += `┃ 🤖 *Mode:* ${botMode.toUpperCase()}\n`;
             menuText += `┃\n┣━〔 *GLOBAL CONFIG* 〕━┈\n`;
@@ -78,7 +78,7 @@ module.exports = {
                     externalAdReply: {
                         title: "SYSTEM SETTINGS PANEL",
                         body: "Configuration Status",
-                        thumbnailUrl: "https://github.com/GlobalTechInfo.png",
+                        thumbnailUrl: "https://github.com/Stanytz378.png",
                         mediaType: 1,
                         renderLargerThumbnail: true
                     }

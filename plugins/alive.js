@@ -53,8 +53,8 @@ module.exports = {
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363319098372999@newsletter',
-            newsletterName: 'MEGA MD',
+            newsletterJid: '120363404317544295@newsletter',
+            newsletterName: 'ᴵ ᴬᴹ ᴸᴱᴳᴱᴺᴰ ⱽ¹.¹.⁰',
             serverMessageId: -1
           }
         }
